@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928632102892",
+    "project_id": "saira-meditation",
+    "storage_bucket": "saira-meditation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928632102892:android:aded52ade5650752c36ac9",
+        "android_client_info": {
+          "package_name": "com.example.complete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928632102892-pa02t5v4q9ioglhdcv15c4gpcsc3pgvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIOVWkcdrW2WBdiXQLyaGjWmgCrC_RUNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928632102892-pa02t5v4q9ioglhdcv15c4gpcsc3pgvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
